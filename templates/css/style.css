@@ -1,0 +1,15 @@
+body{width:960px;margin: -21px auto;background:#fff;}
+a{color:#ff6c00;}
+table td{padding:5px;}
+.header{text-align:center;width:100%;}
+.header h1{color:#fff;}
+.top_line{width:100%; background: #ff6c00; height:40px;}
+.header div.que{width:200px;color:#aaa;}
+.left_menu{width:200px;color:#aaa;float:left;}
+.body{border-left:1px solid #eee;width:739px;float:left;padding:10px;}
+.footer{}
+.login{width:200px;height:60px; float:right; top:0px;}
+.login input{width:100px;height:20px;border:1px solid #666;}
+.login input[type="submit" i]{width: 102px;}
+.login a{color:#fff;}
+.edit_page input{margin:5px;padding:5px;}
